@@ -1,0 +1,17 @@
+C:\Users\darmat\source\repos\Tetris\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+C:\Users\darmat\source\repos\Tetris\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+C:\Users\darmat\source\repos\Tetris\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+C:\Users\darmat\source\repos\Tetris\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+C:\Users\darmat\source\repos\Tetris\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+C:\Users\darmat\source\repos\Tetris\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\darmat\source\repos\Tetris\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache
+C:\Users\darmat\source\repos\Tetris\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+C:\Users\darmat\source\repos\Tetris\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+C:\Users\darmat\source\repos\Tetris\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+C:\Users\darmat\source\repos\Tetris\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+C:\Users\darmat\source\repos\Tetris\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\darmat\source\repos\Tetris\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
+C:\Users\darmat\source\repos\Tetris\Collections\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\darmat\source\repos\Tetris\Collections\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\darmat\source\repos\Tetris\Collections\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\darmat\source\repos\Tetris\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CopyComplete

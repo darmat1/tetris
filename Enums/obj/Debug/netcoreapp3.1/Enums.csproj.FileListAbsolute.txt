@@ -1,0 +1,13 @@
+C:\Users\darmat\source\repos\Tetris\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\darmat\source\repos\Tetris\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\darmat\source\repos\Tetris\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\darmat\source\repos\Tetris\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\darmat\source\repos\Tetris\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\darmat\source\repos\Tetris\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\darmat\source\repos\Tetris\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+C:\Users\darmat\source\repos\Tetris\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\darmat\source\repos\Tetris\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\darmat\source\repos\Tetris\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\darmat\source\repos\Tetris\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\darmat\source\repos\Tetris\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\darmat\source\repos\Tetris\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache
